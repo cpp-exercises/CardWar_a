@@ -11,9 +11,9 @@
 #include <stdexcept>
 using namespace std;
 
-#include "sources/player.h"
-#include "sources/game.h"
-#include "sources/card.h"
+#include "sources/player.hpp"
+#include "sources/game.hpp"
+#include "sources/card.hpp"
 using namespace ariel;
 
 int main() {
